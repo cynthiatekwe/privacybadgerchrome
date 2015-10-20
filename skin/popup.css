@@ -61,6 +61,11 @@ a:hover { color: #eeeeff }
   height: 40px;
   overflow: hidden;
 }
+
+.clicker.tooltip{
+  border: 2px solid black;
+}
+
 .clicker.greyed { background: #aaa; }
 .origin{
   width: 60%;
